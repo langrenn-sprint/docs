@@ -2,7 +2,7 @@
 
 Dette avsnittet beskriver nødvendige forberedelser for å gjøre klart til renn! For å få tilgang til funskjonene må du være innlogget som event-administrator. Rennforberedelsene er delt opp i 9 steg.
 
-Før du starter er det viktig å kontollere at "Globale innstillinger" er riktige.
+Før du starter er det viktig å kontollere at "Globale innstillinger" er riktige. [Link to a page]({% link settings/index.md %})
 
 # Steg 1 - Nytt arrangement
 Start på hovedsiden og velg knappen "Nytt arrangement". Fyll deretter inn nøkkelinformasjon om rennet.
