@@ -5,6 +5,9 @@ This is a fronded application for langrenn sprint - containing user interface fo
 
 The remaining part of the documentation is currenly only in Norwegian.
 
+Del 1 - denne siden
+Del 2 - [Event administrasjon - forberedelser](before_race/)
+
 ## Part 1 - Front-end for guests / Brukergrensesnitt for åpen informasjon.
 Åpen informasjon inkluderer oversikt over deltakere, startlister, kjøreplan, live resultater og sluttresultater. Ingen innlogging er nødvendig. Link til sidene finner du vanligvis via arrangementets hjemmesider eller QR koder på arenaen.
 
