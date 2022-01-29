@@ -1,2 +1,10 @@
 theme: jekyll-theme-minimal
 name: Langrenn-sprint - brukerdokumentasjon
+docs_list_title: Langrenn-sprint - brukerdokumentasjon
+docs:
+- title: Introduction
+  url: introduction.html
+- title: Configuration
+  url: configuration.html
+- title: Deployment
+  url: deployment.html
