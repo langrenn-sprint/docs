@@ -5,7 +5,7 @@ This is a fronded application for langrenn sprint - containing user interface fo
 
 The remaining part of the documentation is currenly only in Norwegian.
 
-- Del 1 - denne siden
+- Del 1 - Deltakere, denne siden
 - Del 2 - [Event administrasjon - før rennet](before_race/)
 - Del 3 - [Tidtaker administrasjon - under rennet](during_race.md)
 
