@@ -75,3 +75,4 @@ Normalt ønsker vi 8 løpere pr heat, men i noen tilfeller kan det bli 9. Dette 
     <td>81 *</td><td>9</td><td>3 to SA, rest to SC</td><td>3</td><td>3 FA, 3 FB, rest out</td><td>6</td><td>1 FC, rest out</td><td>3</td>
   </tr>
 </table>
+Med alternativ 2 vil man "spare" ca ett heat pr klasse. Ca 30 minutter dersom man har 20 klasser med 1,5 minutter start-intervall.
