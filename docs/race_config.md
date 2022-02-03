@@ -7,7 +7,7 @@ Normalt ønsker vi 8 løpere pr heat, men i noen tilfeller kan det bli 9. Dette 
 
 * 64 løpere er anbefalt maksimum antall løpere, men et oppsett med inntil 80 løpere er også satt opp.
 
-Alternativ 1 - maks 8 løpere pr heat
+## Alternativ 1 - maks 8 løpere pr heat
 <table border=1>
   <tr>
     <td>Max racers</td><td>Q count</td><td>Q rule</td><td>SA count</td><td>SA rule</td><td>SC count</td><td>SC rule</td><td>F count</td>
@@ -41,7 +41,8 @@ Alternativ 1 - maks 8 løpere pr heat
   </tr>
 </table>
 
-Alternativ 2 - optimalisert oppsett for raskere gjennomføring, enkelte heat med 9 løpere
+
+## Alternativ 2 - optimalisert oppsett for raskere gjennomføring, enkelte heat med 9 løpere
 <table border=1>
   <tr>
     <td>Max racers</td><td>Q count</td><td>Q rule</td><td>SA count</td><td>SA rule</td><td>SC count</td><td>SC rule</td><td>F count</td>
