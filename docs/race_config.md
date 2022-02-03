@@ -1,5 +1,9 @@
 # Sprint oppsett
-Forslag til regelsett for fordeling av løpere til heat, A- og C- semifinaler og A-, B- og C- finaler:
+Forslag til regelsett for sprint-oppsettet. Alle løpere starter direkte i en kvartfinale og går så videre til neste runde i henhold til oppsettet nedenfor.
+
+Eksempel fra rad 3: Dette gjelder for maks 32 og minimum 25 løpere - 4 kvartfinaler hvor de 4 beste går til semi A og øvrige går til semi C. Det er 2 semi A hvor de 4 beste går til finale A og 4 neste til finale B. Det er 2 semi C hvor de 4 beste går til finale C, resten er ute. Det er 3 finaleheat (A, B og C)
+
+Normalt ønsker vi 8 løpere pr heat, men i noen tilfeller kan det bli 9. Dette kan unngås ved å bruke alternativt oppsett (markert med alt) - det alternative oppsettet har noen flere heat og dermed også flere heat med under 6 deltakere. 64 løpere er anbefalt maksimum antall løpere, men et oppsett med inntil 80 løpere er også satt opp.
 
 <table border=1>
   <tr>
