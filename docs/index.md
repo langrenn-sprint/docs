@@ -8,7 +8,7 @@ The remaining part of the documentation is currenly only in Norwegian.
 - Del 1: Brukermanual for deltakere, denne siden
 - Del 2: Brukermanual for [Event administrasjon - før rennet](before_race/)
 - Del 3: Brukermanual for [Tidtaker administrasjon - under rennet](during_race.md)
-- Del 4: [Oppsett for sprint](sprint_config.md) - beskrivelse av standard sprint oppsett med kvartfinaler, semifinaler og finaler.
+- Del 4: [Oppsett for sprint](race_config.md) - beskrivelse av standard sprint oppsett med kvartfinaler, semifinaler og finaler.
 
 ## Part 1 - Front-end for guests / Brukergrensesnitt for åpen informasjon.
 Åpen informasjon inkluderer oversikt over deltakere, startlister, kjøreplan, live resultater og sluttresultater. Ingen innlogging er nødvendig. Link til sidene finner du vanligvis via arrangementets hjemmesider eller QR koder på arenaen.
