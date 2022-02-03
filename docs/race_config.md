@@ -25,7 +25,7 @@ Alternativ 1 - maks 8 løpere pr heat
     <td>32</td><td>4</td><td>4 to SA, rest to SC</td><td>2</td><td>4 FA, 4 FB, rest out</td><td>2</td><td>4 FC, rest out</td><td>3</td>
   </tr>
   <tr>
-    <td>40</td><td>5</td><td>4 to SA, rest to SC</td><td>3</td><td>2 FA, 2 FB, rest out</td><td>3</td><td>2 FC, rest out</td><td>3</td>
+    <td>40</td><td>6</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>2</td><td>4 FC, rest out</td><td>3</td>
   </tr>
   <tr>
     <td>48</td><td>6</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>4</td><td>2 FC, rest out</td><td>3</td>
