@@ -19,19 +19,19 @@ Alternativ 1 - maks 8 løpere pr heat
     <td>16</td><td>2</td><td>4 FA, 4 FB, rest out</td><td>0</td><td></td><td>0</td><td></td><td>2</td>
   </tr>
   <tr>
-    <td>24 alt</td><td>3</td><td>4 to SA, rest to SC</td><td>2</td><td>4 FA, 4 FB, rest out</td><td>2</td><td>4 FC, rest out</td><td>3</td>
+    <td>24</td><td>3</td><td>4 to SA, rest to SC</td><td>2</td><td>4 FA, 4 FB, rest out</td><td>2</td><td>4 FC, rest out</td><td>3</td>
   </tr>
   <tr>
     <td>32</td><td>4</td><td>4 to SA, rest to SC</td><td>2</td><td>4 FA, 4 FB, rest out</td><td>2</td><td>4 FC, rest out</td><td>3</td>
   </tr>
   <tr>
-    <td>40 alt</td><td>5</td><td>4 to SA, rest to SC</td><td>3</td><td>2 FA, 2 FB, rest out</td><td>3</td><td>2 FC, rest out</td><td>3</td>
+    <td>40</td><td>5</td><td>4 to SA, rest to SC</td><td>3</td><td>2 FA, 2 FB, rest out</td><td>3</td><td>2 FC, rest out</td><td>3</td>
   </tr>
   <tr>
-    <td>48 alt</td><td>6</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>4</td><td>2 FC, rest out</td><td>3</td>
+    <td>48</td><td>6</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>4</td><td>2 FC, rest out</td><td>3</td>
   </tr>
   <tr>
-    <td>56 alt</td><td>7</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>4</td><td>2 FC, rest out</td><td>3</td>
+    <td>56</td><td>7</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>4</td><td>2 FC, rest out</td><td>3</td>
   </tr>
   <tr>
     <td>64</td><td>8</td><td>4 to SA, rest to SC</td><td>4</td><td>2 FA, 2 FB, rest out</td><td>4</td><td>2 FC, rest out</td><td>3</td>
