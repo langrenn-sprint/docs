@@ -13,7 +13,8 @@ The remaining part of the documentation is currenly only in Norwegian.
 ## Part 1 - Front-end for guests / Brukergrensesnitt for åpen informasjon.
 Åpen informasjon inkluderer oversikt over deltakere, startlister, kjøreplan, live resultater og sluttresultater. Ingen innlogging er nødvendig. Link til sidene finner du vanligvis via arrangementets hjemmesider eller QR koder på arenaen.
 
-![video](https://youtu.be/jpPf93RlRG0)
+
+{% include video_contestant.html %}
 
 ### Menyen
 ![image](https://user-images.githubusercontent.com/56455987/150684640-9da7d4a8-9f81-426f-9e03-52798e0dd6a6.png)
