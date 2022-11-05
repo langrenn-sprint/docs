@@ -5,10 +5,11 @@ This is a fronded application for langrenn sprint - containing user interface fo
 
 The remaining part of the documentation is currenly only in Norwegian.
 
-- Del 1: [Brukermanual for deltakere](contestant.md)
-- Del 2: Brukermanual for [Event administrasjon - før rennet](before_race/)
-- Del 3: Brukermanual for [Tidtaker administrasjon - under rennet](during_race.md)
-- Del 4: [Oppsett for sprint](race_config.md) - beskrivelse av standard sprint oppsett med kvartfinaler, semifinaler og finaler.
+- [Brukermanual for deltakere](contestant.md)
+- [Opprett arrangement](before_race/)
+- [Administrasjon under rennet](during_race.md)
+- [Tidtaker - registrere målpassering](timing.md)
+- [Oppsett for sprint](race_config.md) - beskrivelse av standard sprint oppsett med kvartfinaler, semifinaler og finaler.
 
 ### Menyen
 ![image](https://user-images.githubusercontent.com/56455987/150684640-9da7d4a8-9f81-426f-9e03-52798e0dd6a6.png)
