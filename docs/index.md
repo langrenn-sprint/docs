@@ -6,6 +6,7 @@ This is a fronded application for langrenn sprint - containing user interface fo
 The remaining part of the documentation is currenly only in Norwegian.
 
 - [Brukermanual for deltakere](contestant.md)
+- [Prosessbeskrivelser for tidtakerteamet](process_desc.md)
 - [Opprett arrangement](before_race/)
 - [Administrasjon under rennet](during_race.md)
 - [Tidtaker - registrere målpassering](timing.md)
