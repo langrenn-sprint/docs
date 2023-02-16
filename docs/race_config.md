@@ -38,6 +38,8 @@ Normalt ønsker vi 8 løpere pr heat, men i noen tilfeller kan det bli 9. Dette 
   </tr>
 </table>
 
+Merknad: Det er mulig å konfigurere et eget oppsett med andre regler enn det som er beskrevet over (standard-oppsettet). Dette gjøres gjennom funksjonen "Globale innstillinger".
+
 ### Seeding av løpere
 Seeding utføres etter følgende prinsipp:
 1. Kvalifisering / kvartfinaler: Ingen automatisk seeding i systemet - manuell seeding kan gjøres. Bruk funksjonen "Utfør seeding" på Arrangement-siden.
