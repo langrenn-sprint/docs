@@ -40,6 +40,10 @@ Normalt ønsker vi 8 løpere pr heat, men i noen tilfeller kan det bli 9. Dette 
 
 ### Seeding av løpere
 Seeding utføres etter følgende prinsipp:
-Først fordeles gruppen av høyest seeded løpere likt antallet heat, randomly ut på heatene; så neste gruppe randomly, osv. til alle seedede løpere er fordelt. Så fordeles alle useedede randomly ut på alle heat tilsvarende hvordan prosessen er for løp uten seeding. 
-I klasser der seeding gjennomføres basert på cup-stilling i lokale/regionale cup-er forbeholder arrangøren seg retten til innplassere "utenbys" løpere i heat etter avtale med TD.
+1. Kvalifisering / kvartfinaler: Ingen automatisk seeding i systemet - manuell seeding kan gjøres. Bruk funksjonen "Utfør seeding" på Arrangement-siden.
+2. Semifinaler: Løperne rangeres basert på resultater i kvalifisering. Vinner av heat 1 får rank 1, vinner av heat 2 får rank 2 osv. Deretter fordeles løperne etter følgende nøkkel: rank 1 får posisjon 1 i semifinale 1, rank 2 får posisjon 1 i semifinale 2, rank 3 får posisjon 1 i semifinale 3 osv.
 
+Merknader:
+- I klasser der seeding gjennomføres basert på cup-stilling i lokale/regionale cup-er forbeholder arrangøren seg retten til innplassere "utenbys" løpere i heat etter avtale med TD.
+- Fremtidig løsning for seeding til kvalifisering (ikke implementert ennå):
+Først fordeles gruppen av høyest seeded løpere likt antallet heat, randomly ut på heatene; så neste gruppe randomly, osv. til alle seedede løpere er fordelt. Så fordeles alle useedede randomly ut på alle heat tilsvarende hvordan prosessen er for løp uten seeding. 
