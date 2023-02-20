@@ -2,6 +2,8 @@
 
 Dette avsnittet beskriver nødvendige forberedelser for å gjøre klart til renn! For å få tilgang til funskjonene må du være innlogget som event-administrator. Rennforberedelsene er delt opp i 9 steg.
 
+Video av oppsett her: https://youtu.be/By1KbuHGirQ
+
 Før du starter er det viktig å kontollere at  [globale innstillinger](../settings/index.md) er riktige.
 
 # Steg 1 - Nytt arrangement
