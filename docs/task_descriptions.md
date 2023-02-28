@@ -13,7 +13,8 @@ Beskrivelse av oppgaver innen tidtaking på sprint-arrangement - basert på erfa
 - Ansvarlig for tidtaking (1 person): Holder oversikt over resultater og flyt i rennet. Optimaliserer oppsett og tidskjema ved behov. Har tilgang til printer og styrer selv utskrifter til kurer.
 - Flip-over skriver (3 personer): Skriver startnummer til alle målpasseringer på flip-over. Se bilde under.
 - Kurer/listeservice (1 person): Henger opp utskrift av resultater på oppslag. Formidler start- og resultatlister til startere, premieutdelere og oppslag på stadion. Følger med på digitale tavler. Følger med på resultatskjermene og passer på at riktige klasser vises.
-- Drift av digitale løsninger (1 person): I skyen: Tidtakersystemet - sprint-langrenn. Ved start: En skjerm der startlister er online. Resultat: Skjermer (en pr. Klasse som pågår) der live resultater/startlister er kontinuerlig tilgjengelig.
+- Teknisk drift på stadion (1 person): Ved start: En skjerm der startlister er online. Resultat: Skjermer (en pr. Klasse som pågår) der live resultater/startlister er kontinuerlig tilgjengelig.
+- Drift av sprint-langrenn (1 person): I skyen: Tidtakersystemet - sprint-langrenn. Sikre backup og være tilgjengelig ved tekniske problemer.
 
 ![image](https://user-images.githubusercontent.com/56455987/202043522-5b0492f8-4fef-4702-a413-c3265b62e7d9.png)
 
