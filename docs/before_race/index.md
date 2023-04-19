@@ -46,7 +46,7 @@ I dette eksemplet starter jentene først og en og en årgang går om gangen.
 
 ![image](https://user-images.githubusercontent.com/56455987/151458888-1dc76611-5f26-4ce6-ad53-2277bc883017.png)
 
-# Steg 5 - Startnummer
+# Steg 5a - Startnummer
 Det er nå klart for å tildele startnummer. 
 ![image](https://user-images.githubusercontent.com/56455987/151652702-4f9baffa-69cd-4e4a-8d83-6f7285c37d30.png)
 
@@ -57,6 +57,11 @@ Startnummer tildeles i henhold til startrekkefølgen i forrige steg. Samtidig gj
 Når startnummer er tildelt blir funksjonene for å skrive ut deltakerlister - pr klubb og pr klasse - tilgjengelig.
 
 Merk: Det er også mulig å tildele startnummer manuelt. Dette kan enten gjøres ved at startnummer legges inn i deltakerfilen (steg 2) eller gjennom detaljsiden for deltakere.
+
+# Steg 5b - Seeding
+Seeding kan gjøres på to måter (1) automatisk ved å bruke seeding_informasjon eller (2) ved manuelt å flytte løpere mellom heat.
+1. Automatisk seeding - dette utføres ved at løpere tildeles startnummer i henhold til seeding. De med best seeding får posisjon 1 i heatene, deretter posisjon 2 osv... Velg klasse først og utfør seeding for en klasse om gangen.
+2. Manuell innplassering - her er det mulig å flytte løpere mellom heat. Dette gjøres ved å skrive inn et startnummer i feltet "Nytt startnr" og trykke på "Lagre".
 
 # Steg 6 - Kjøreplan
 Funksjonen 'Generer kjøreplan' setter opp alle heat (kvartfinaler, semifinaler, finaler) i henhold til et pre-definert oppsett. Starttider settes basert på eventens start-tidspunkt og de globale innstillingene.
