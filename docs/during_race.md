@@ -20,4 +20,4 @@ Disse genereres automatisk så snart resultater for finale A er registrert. Ders
 Det anbefales å sette ut skjermer med live resultater på stadion. Live siden er laget for å følge en løpsklasse og vil automatisk oppdatere seg for å fokusere på gjeldende runde. Pro tip: Det er mulig å endre refresh rate på siden ved å skru på parameter i side-url. Anbefaling er å sette 30 sekunder (default er 120). 
 
 ### Etteranmelding
-Etteranmeldinger kan gjøres så lenge det er ledige plasser i heat. Startnummer må velges manuelt og løperen vil automatisk bli plassert i et av heatene med færrest løpere. Det tas ikke hensyn til seeding.
+Etteranmeldinger kan gjøres så lenge det er ledige plasser i heat. Startnummer må velges manuelt og løperen vil automatisk bli plassert i et av heatene med færrest løpere. Det tas ikke hensyn til seeding - dette må håndteres manuelt ved å flytte løperen til ønsket heat.
