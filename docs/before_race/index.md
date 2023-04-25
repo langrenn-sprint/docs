@@ -59,9 +59,10 @@ Når startnummer er tildelt blir funksjonene for å skrive ut deltakerlister - p
 Merk: Det er også mulig å tildele startnummer manuelt. Dette kan enten gjøres ved at startnummer legges inn i deltakerfilen (steg 2) eller gjennom detaljsiden for deltakere.
 
 # Steg 5b - Seeding
-Seeding kan gjøres på to måter (1) automatisk ved å bruke seeding_informasjon eller (2) ved manuelt å flytte løpere mellom heat.
-1. Automatisk seeding - dette utføres ved at løpere tildeles startnummer i henhold til seeding. De med best seeding får posisjon 1 i heatene, deretter posisjon 2 osv... Velg klasse først og utfør seeding for en klasse om gangen.
+Seeding gjøres pr klasse og kan gjøres på to måter (1) ved legge inn seeding poeng eller (2) ved manuelt å flytte løpere mellom heat.
+1. Legg inn seeding-poeng - dette utføres ved å legge inn seeding-poeng på de løperne som skal seedes og trykke Lagre. Løpere vil da tildeles startnummer i henhold til seeding. De med best seeding får posisjon 1 i heatene, deretter posisjon 2 osv... Velg klasse først og utfør seeding for en klasse om gangen.
 2. Manuell innplassering - her er det mulig å flytte løpere mellom heat. Dette gjøres ved å skrive inn et startnummer i feltet "Nytt startnr" og trykke på "Lagre".
+Merk at det også er mulig å laste inn seeding poeng automatisk. Dette gjøres ved å bruke "excel_manual" formatet fra steg 2. Seeding vil da utføres samtidig som startnummer tildeles (steg 5a).
 
 # Steg 6 - Kjøreplan
 Funksjonen 'Generer kjøreplan' setter opp alle heat (kvartfinaler, semifinaler, finaler) i henhold til et pre-definert oppsett. Starttider settes basert på eventens start-tidspunkt og de globale innstillingene.
