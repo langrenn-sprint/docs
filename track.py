@@ -1,8 +1,9 @@
 import datetime
-from ultralytics import YOLO
+import piexif
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
+from ultralytics import YOLO
 
 # Load an official or custom model
 model = YOLO('yolov8n.pt')  # Load an official Detect model
@@ -41,17 +42,28 @@ for result in results:
                             font_size = 50
                             font_color = (255, 0, 0)  # red
                             font = ImageFont.truetype("arial.ttf", font_size)
-                            image_text = f"{datetime.datetime.now()}"
 
-                            draw.text((50, 50), image_text, font=font, fill=font_color)
+                            # get the current time
+                            current_time = datetime.datetime.now()
+                            time_text = current_time.strftime('%Y:%m:%d %H:%M:%S')
+
+                            draw.text((50, 50), time_text, font=font, fill=font_color)
 
                             # crop to only person in box
                             xyxy = boxes.xyxy[y]
                             imCrop = im.crop((xyxy.tolist()[0], xyxy.tolist()[1], xyxy.tolist()[2], xyxy.tolist()[3]))
- 
+
+                            # set the place
+                            place = "Mål"
+
+                            # create the EXIF data and convert to bytes
+                            exif_dict = {"0th": {piexif.ImageIFD.ImageDescription: time_text,
+                                                piexif.ImageIFD.Artist: place}}
+                            exif_bytes = piexif.dump(exif_dict)
+
                             # im.show()  # show image
-                            im.save(f"results{id}.jpg")  # save image to file - full size
-                            imCrop.save(f"results{id}_crop.jpg")
+                            im.save(f"results{id}.jpg", exif=exif_bytes)  # save image to file - full size
+                            imCrop.save(f"results{id}_crop.jpg", exif=exif_bytes)
                             
                 except TypeError as e:
                     print(f"TypeError: {e}")
