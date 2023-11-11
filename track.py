@@ -1,4 +1,5 @@
 import datetime
+import json
 import piexif
 from PIL import Image
 from PIL import ImageDraw
@@ -53,12 +54,14 @@ for result in results:
                             xyxy = boxes.xyxy[y]
                             imCrop = im.crop((xyxy.tolist()[0], xyxy.tolist()[1], xyxy.tolist()[2], xyxy.tolist()[3]))
 
-                            # set the place
-                            place = "Mål"
+                            # set the params
+                            image_info = {
+                                "passeringspunkt": "Mål",
+                                "passeringstid": time_text,
+                            }
 
                             # create the EXIF data and convert to bytes
-                            exif_dict = {"0th": {piexif.ImageIFD.ImageDescription: time_text,
-                                                piexif.ImageIFD.Artist: place}}
+                            exif_dict = {"0th": {piexif.ImageIFD.ImageDescription: json.dumps(image_info)} }
                             exif_bytes = piexif.dump(exif_dict)
 
                             # im.show()  # show image
