@@ -1,5 +1,2 @@
 theme: jekyll-theme-slate
 name: Langrenn-sprint - brukerdokumentasjon
-
-include: _includes/
-recursive: true
