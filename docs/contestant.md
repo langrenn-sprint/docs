@@ -1,8 +1,9 @@
+
 # Brukermanual for deltakere
 Oversikt over startlister, live resultater og sluttresultater. Ingen innlogging er nødvendig. Link til sidene finner du vanligvis via arrangementets hjemmesider eller QR koder på arenaen.
 
 ## Videoer
-{% include video_contestant.html %}
+{% include _includes/video_contestant.html %}
 
 ### Starlister
 ![image](https://user-images.githubusercontent.com/56455987/150684902-befe3983-48a7-4645-b9c7-6696db1025a8.png)
