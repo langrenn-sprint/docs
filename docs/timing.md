@@ -2,7 +2,7 @@
 Funksjonen "Tidtaker" gir tilgang til å registrere målpasseringer.
 
 ## Videoer
-{% include video_timing.html %}
+{% include_relative _includes/video_timing.html %}
 
 ### Delt plassering
 ![image](https://user-images.githubusercontent.com/56455987/228965881-a37a3e65-a98b-423a-9008-f1df052613d4.png)<br>
