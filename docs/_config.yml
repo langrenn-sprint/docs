@@ -1,2 +1,10 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 name: Langrenn-sprint - brukerdokumentasjon
+email: langrenn-sprint@example.com
+description: >-
+  Brukerdokumentasjon for Langrenn-sprint.
+baseurl: /
+url: https://langrenn-sprint.github.io
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
