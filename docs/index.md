@@ -5,6 +5,7 @@ This is a fronded application for langrenn sprint - containing user interface fo
 
 The remaining part of the documentation is currenly only in Norwegian.
 
+- [Arkitektur](architecture.md)
 - [Bemanning og prosessbeskrivelser](task_descriptions.md)
 - [Brukermanual for deltakere](contestant.md)
 - [Brukermanual - Opprett arrangement](before_race/)
