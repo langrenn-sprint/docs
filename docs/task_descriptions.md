@@ -14,8 +14,8 @@ Beskrivelse av oppgaver innen tidtaking på sprint-arrangement - basert på erfa
 - Flip-over skriver (3 personer): Skriver startnummer til alle målpasseringer på flip-over. Se bilde under. Det er også en fordel at en av personene filmer målpassering (med ett mobilkamera eller en ipad).
 - Kurer/listeservice (1 person): Henger opp utskrift av resultater på oppslag. Formidler start- og resultatlister til startere, premieutdelere og oppslag på stadion. Følger med på digitale tavler. Følger med på resultatskjermene og passer på at riktige klasser vises.
 - Teknisk drift på stadion (1 person): Ved start: En skjerm der startlister er online. Resultat: Skjermer (en pr. Klasse som pågår) der live resultater/startlister er kontinuerlig tilgjengelig.
-- Teknsik drift av sprint-langrenn, skyløsning (1 person): Tidtakersystemet - sprint-langrenn. Sikre backup og være tilgjengelig ved tekniske problemer.
+- Teknisk drift av sprint-langrenn, skyløsning (1 person): Tidtakersystemet - sprint-langrenn. Sikre backup og være tilgjengelig ved tekniske problemer.
 
 ![image](https://user-images.githubusercontent.com/56455987/202043522-5b0492f8-4fef-4702-a413-c3265b62e7d9.png)
 
-Foto: Eksempel på flip-over med oversikt over målpasseringer. Det grupperes på heat og starnummer skrives i den rekkefølgen løperne påsserer mål. Denne tavla er rennets viktigste dokument!
+Foto: Eksempel på flip-over med oversikt over målpasseringer. Det grupperes på heat og startnummer skrives i den rekkefølgen løperne passerer mål. Denne tavla er rennets viktigste dokument!
