@@ -1,10 +1,10 @@
 # Part 2 Administrasjon - før rennet
 
-Dette avsnittet beskriver nødvendige forberedelser for å gjøre klart til renn! For å få tilgang til funskjonene må du være innlogget som event-administrator. Rennforberedelsene er delt opp i 9 steg.
+Dette avsnittet beskriver nødvendige forberedelser for å gjøre klart til renn! For å få tilgang til funksjonene må du være innlogget som event-administrator. Rennforberedelsene er delt opp i 9 steg.
 
 Video av oppsett her: https://youtu.be/By1KbuHGirQ
 
-Før du starter er det viktig å kontollere at  [globale innstillinger](../settings/index.md) er riktige.
+Før du starter er det viktig å kontrollere at  [globale innstillinger](../settings/index.md) er riktige.
 
 # Steg 1 - Nytt arrangement
 Start på hovedsiden og velg knappen "Nytt arrangement". Fyll deretter inn nøkkelinformasjon om rennet.
@@ -33,7 +33,7 @@ Det genereres automatisk løpsklasse for hver aldersklasse i påmeldingslisten. 
 
 ![image](https://user-images.githubusercontent.com/56455987/151652608-a8efabf7-798b-4f8c-91a8-e0c61b095f22.png)
 
-I dette eksemplet opprettes 4 klasser. Det er mulig å lage felles løpsklasse for flere årsklasser - dette gjøres med funskjonen 'Slå sammen klasser'.
+I dette eksemplet opprettes 4 klasser. Det er mulig å lage felles løpsklasse for flere årsklasser - dette gjøres med funksjonen 'Slå sammen klasser'.
 
 ![image](https://user-images.githubusercontent.com/56455987/151652646-8b16c72a-6a65-4c09-8f03-76e65effb795.png)
 

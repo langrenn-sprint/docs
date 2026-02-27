@@ -5,7 +5,7 @@ Oversikt over startlister, live resultater og sluttresultater. Ingen innlogging 
 ## Videoer
 {% include_relative _includes/video_contestant.html %}
 
-### Starlister
+### Startlister
 ![image](https://user-images.githubusercontent.com/56455987/150684902-befe3983-48a7-4645-b9c7-6696db1025a8.png)
 
 Forsiden viser kjøreplan, både overordnet pr runde og listen med alle heat, inkludert regel for neste runde (fra kvartfinale til semifinale og finale).
